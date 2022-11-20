@@ -45,14 +45,6 @@ function App() {
       <Expenses items={expenses} onDelete ={deleteItemHandler}/>
     </div>
   );
-
-  // React transfrom the JSX code into below code and send it to browser.(Under the hood)
-  // return React.createElement(
-  //   'div',
-  //   {},
-  //   React.createElement('h2', {}, 'Lets get started'),
-  //   React.createElement(Expenses, {items: {expenses}})
-  // );
 }
 
 export default App;
