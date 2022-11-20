@@ -1,0 +1,27 @@
+.expense-filter{
+    padding: 0 0.8rem;
+    margin: 1.2rem 0 1.6rem 0;
+    text-align: right;
+}
+
+.expenseFilter-controls{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.expenseFilter-controls label {
+    color: #fff;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.expenseFilter-controls select {
+    padding: 0.8rem 2.4rem;
+    border-radius: 9px;
+    font-weight: 600;
+}
+
+.year-select{
+    cursor: pointer;
+}

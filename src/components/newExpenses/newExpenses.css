@@ -1,0 +1,23 @@
+.newExpense {
+  width: 64rem;
+  margin: 2rem auto 0 auto;
+  padding: 1rem;
+  text-align: center;
+  background-color: rgba(185, 147, 255, 0.721);
+}
+
+.newExpense button,
+.newExpense button:visited {
+  padding: 1.4rem 2.4rem;
+  font-size: 1.2rem;
+  border: none;
+  background-color: rgb(47, 29, 62);
+  color: #fff;
+  border-radius: 9px;
+}
+
+.newExpense button:hover,
+.newExpense button:active {
+  cursor: pointer;
+  background-color: rgba(47, 29, 62, 0.91);
+}
