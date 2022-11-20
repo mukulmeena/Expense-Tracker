@@ -1,5 +1,5 @@
 # Expense-Tracker
-## It's an react application where you can create and manage your monthly expenses.
+## It's a react application where you can create and manage your monthly expenses.
 
 To run the Application:
 <ul>
